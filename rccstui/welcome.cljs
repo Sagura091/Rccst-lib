@@ -1,4 +1,4 @@
-#_{:clj-kondo/ignore [:namespace-name-mismatch]}
+
 (ns rccstui.welcome
   (:require [woolybear.ad.layout :as layout]
             [re-com.core :as rc]
