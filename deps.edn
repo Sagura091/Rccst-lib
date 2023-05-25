@@ -1,4 +1,4 @@
-{:paths ["rccstui"]
+{:paths ["rccst-lib" "rccstui" "rccst-ui-component"]
 
  :deps {org.clojure/clojure                              {:mvn/version "1.10.3"}
         org.clojure/clojurescript                    {:mvn/version "1.10.914"}
