@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.layout.layout-grid
+(ns rccstui.rccst-ui-component.atom.example.layout.layout-grid
   (:require [ui-component.atom.layout.grid :as grid]
             [re-com.core :as rc]
             [taoensso.timbre :as log]
@@ -7,7 +7,7 @@
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccst-ui-component.atom.example.layout.layout-grid")
+(log/info "rccstui.rccst-ui-component.atom.example.layout.layout-grid")
 
 
 (defn- make-widget [[id icon bk-color txt-color]]

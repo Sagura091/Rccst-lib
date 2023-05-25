@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.re-com.text-input-re-com
+(ns rccstui.rccst-ui-component.atom.example.re-com.text-input-re-com
   (:require [clojure.string :as string]
             [re-com.core :as rc]
             [reagent.ratom :as ratom]

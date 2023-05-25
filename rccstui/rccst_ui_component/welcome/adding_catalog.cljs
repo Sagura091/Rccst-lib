@@ -1,5 +1,5 @@
-(ns rccst-ui-component.welcome.adding-catalog
-  (:require [rccst-ui-component.technologies.overview.overview :as o]))
+(ns rccstui.rccst-ui-component.welcome.adding-catalog
+  (:require [rccstui.rccst-ui-component.technologies.overview.overview :as o]))
 
 
 (defn overview []

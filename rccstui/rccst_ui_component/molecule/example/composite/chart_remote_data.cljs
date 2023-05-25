@@ -1,4 +1,4 @@
-(ns rccst-ui-component.molecule.example.composite.chart-remote-data
+(ns rccstui.rccst-ui-component.molecule.example.composite.chart-remote-data
   (:require [ui-component.molecule.composite.chart-remote-data :as chart-remote-data]
             [ui-component.molecule.grid-container :as grid]
             [ui-component.utils.helpers :as h]
@@ -10,7 +10,7 @@
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccst-ui-component.molecule.example.composite.chart-remote-data")
+(log/info "rccstui.rccst-ui-component.molecule.example.composite.chart-remote-data")
 
 
 (defn example []

@@ -1,5 +1,5 @@
 #_{:clj-kondo/ignore [:namespace-name-mismatch]}
-(ns rccst-ui-component.molecule.example.composite.bigger-coverage-plan
+(ns rccstui.rccst-ui-component.molecule.example.composite.bigger-coverage-plan
   (:require [bhui.subs :as subs]
             [ui-component.molecule.composite.bigger-coverage-plan :as coverage-plan]
             [ui-component.molecule.grid-container :as grid]
@@ -12,7 +12,7 @@
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccst-ui-component.molecule.example.composite.coverage-plan")
+(log/info "rccstui.rccst-ui-component.molecule.example.composite.coverage-plan")
 
 
 (defn ww-example []

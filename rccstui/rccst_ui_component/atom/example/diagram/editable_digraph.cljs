@@ -1,7 +1,7 @@
-(ns rccst-ui-component.atom.example.diagram.editable-digraph
+(ns rccstui.rccst-ui-component.atom.example.diagram.editable-digraph
   (:require [ui-component.atom.diagram.diagram.composite-dag-support :as support]
             [ui-component.atom.diagram.editable-digraph :as digraph]
-            [rccst-ui-component.atom.utils :as example]
+            [rccstui.rccst-ui-component.atom.utils :as example]
             [ui-component.utils :as utils]
             [reagent.core :as r]))
 

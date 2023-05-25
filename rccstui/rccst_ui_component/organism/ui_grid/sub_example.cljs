@@ -1,4 +1,4 @@
-(ns rccst-ui-component.organism.ui-grid.sub-example
+(ns rccstui.rccst-ui-component.organism.ui-grid.sub-example
   (:require [rccst.subs :as subs]
             [ui-component.molecule.composite.chart-remote-data :as chart-remote-data]
             [ui-component.molecule.composite.coverage-plan :as coverage-plan]
@@ -16,7 +16,7 @@
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccst-ui-component.organism.ui-grid.sub-example")
+(log/info "rccstui.rccst-ui-component.organism.ui-grid.sub-example")
 
 
 (def container-id :ui-grid-sub-demo)

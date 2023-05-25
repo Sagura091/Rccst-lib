@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.chart.alt.data-tools
+(ns rccstui.rccst-ui-component.atom.example.chart.alt.data-tools
   (:require [ui-component.utils :as ui-utils]
             [ui-component.utils.helpers :as h]
             [re-com.core :as rc]
@@ -6,7 +6,7 @@
             [ui-component.utils.example-data :as ex]))
 
 
-(log/info "rccst-ui-component.atom.example.chart.alt.data-tools")
+(log/info "rccstui.rccst-ui-component.atom.example.chart.alt.data-tools")
 
 
 (defn meta-tabular-data-ratom-tools [data default-data random-data]

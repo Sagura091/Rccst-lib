@@ -1,6 +1,6 @@
-(ns rccst-ui-component.atom.example.misc.rgba-color-picker
+(ns rccstui.rccst-ui-component.atom.example.misc.rgba-color-picker
   (:require [ui-component.utils.color :as color]
-            [rccst-ui-component.atom.example.utils :as utils]
+            [rccstui.rccst-ui-component.atom.example.utils :as utils]
             [re-com.core :as rc]
             [reagent.core :as r]
             [taoensso.timbre :as log]
@@ -10,7 +10,7 @@
             ["react-colorful" :refer [RgbaColorPicker]]))
 
 
-(log/info "rccst-ui-component.atom.example.misc.rgba-color-picker")
+(log/info "rccstui.rccst-ui-component.atom.example.misc.rgba-color-picker")
 
 
 (def config (r/atom {:r 200 :g 150 :b 35 :a 0.5}))

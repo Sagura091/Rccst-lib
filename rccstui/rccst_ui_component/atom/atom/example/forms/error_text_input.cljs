@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.forms.error-text-input
+(ns rccstui.rccst-ui-component.atom.example.forms.error-text-input
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.forms :as forms]
             [woolybear.ad.layout :as layout]))

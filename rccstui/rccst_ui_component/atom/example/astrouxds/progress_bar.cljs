@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.astrouxds.progress-bar
+(ns rccstui.rccst-ui-component.atom.example.astrouxds.progress-bar
   (:require [ui-component.atom.astrouxds.progress-bar :as pb]
             [re-com.core :as rc]
             [woolybear.ad.catalog.utils :as acu]))

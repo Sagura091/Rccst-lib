@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.misc.resium.globe
+(ns rccstui.rccst-ui-component.atom.example.misc.resium.globe
   (:require [ui-component.atom.resium.globe :as globe]
             [woolybear.ad.catalog.utils :as acu]))
 

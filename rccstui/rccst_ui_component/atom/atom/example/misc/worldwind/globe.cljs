@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.misc.worldwind.globe
+(ns rccstui.rccst-ui-component.atom.example.misc.worldwind.globe
   (:require [ui-component.atom.worldwind.globe :as globe]
             [ui-component.utils.helpers :as h]
             [woolybear.ad.layout :as layout]

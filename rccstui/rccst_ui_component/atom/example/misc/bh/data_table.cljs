@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.misc.bhui.data-table
+(ns rccstui.rccst-ui-component.atom.example.misc.bhui.data-table
   (:require [ui-component.atom.bhui.data-table :as table]
             [re-com.core :as rc]
             [reagent.core :as r]
@@ -6,7 +6,7 @@
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))
 
-(log/info "rccst-ui-component.atom.example.misc.bhui.data-table")
+(log/info "rccstui.rccst-ui-component.atom.example.misc.bhui.data-table")
 
 
 (defonce data (r/atom table/sample-data))

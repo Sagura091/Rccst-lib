@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.re-com.throbber
+(ns rccstui.rccst-ui-component.atom.example.re-com.throbber
   (:require [re-com.core :as core]
             [re-com.throbber :as throb]
             [reagent.core :as r]

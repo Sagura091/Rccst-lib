@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.re-com.progress-bar
+(ns rccstui.rccst-ui-component.atom.example.re-com.progress-bar
   (:require [re-com.core :as rc]
             [reagent.core :as r]
             [woolybear.ad.catalog.utils :as acu]))

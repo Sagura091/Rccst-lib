@@ -1,11 +1,11 @@
-(ns rccst-ui-component.atom.example.re-com.meta-coc-editable-table
+(ns rccstui.rccst-ui-component.atom.example.re-com.meta-coc-editable-table
   (:require [ui-component.atom.re-com.editable-table :as table]
             [taoensso.timbre :as log]
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccst-ui-component.atom.example.re-com.meta-coc-editable-table")
+(log/info "rccstui.rccst-ui-component.atom.example.re-com.meta-coc-editable-table")
 
 
 (defonce data table/meta-coc-sample-data)

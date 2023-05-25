@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.layout.page-title
+(ns rccstui.rccst-ui-component.atom.example.layout.page-title
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))
 

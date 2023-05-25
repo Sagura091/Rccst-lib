@@ -1,1 +1,1 @@
-(ns rccst-ui-component.molecule.example.composite)
+(ns rccstui.rccst-ui-component.molecule.example.composite)

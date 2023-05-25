@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.astrouxds.button
+(ns rccstui.rccst-ui-component.atom.example.astrouxds.button
   (:require [ui-component.atom.astrouxds.button :as button]
             [re-com.core :as rc]
             [woolybear.ad.catalog.utils :as acu]))

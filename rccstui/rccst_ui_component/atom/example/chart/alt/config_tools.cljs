@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.chart.alt.config-tools
+(ns rccstui.rccst-ui-component.atom.example.chart.alt.config-tools
   (:require [re-com.core :as rc]
             [ui-component.atom.chart.utils :as chart-utils]
             [ui-component.utils :as ui-utils]
@@ -6,7 +6,7 @@
             [taoensso.timbre :as log]))
 
 
-(log/info "rccst-ui-component.atom.example.chart.alt.config-tools")
+(log/info "rccstui.rccst-ui-component.atom.example.chart.alt.config-tools")
 
 
 (defn meta-tabular-config-column-ratom-tools [config-data default-config-data]

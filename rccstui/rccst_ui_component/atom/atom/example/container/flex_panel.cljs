@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.container.flex-panel
+(ns rccstui.rccst-ui-component.atom.example.container.flex-panel
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]
             [woolybear.packs.flex-panel :as flex]))

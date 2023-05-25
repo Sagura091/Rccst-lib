@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.re-com.alert-box
+(ns rccstui.rccst-ui-component.atom.example.re-com.alert-box
   (:require [ui-component.atom.bhui.markdown :as markdown]
             [re-com.core :as rc]
             [reagent.core :as r]

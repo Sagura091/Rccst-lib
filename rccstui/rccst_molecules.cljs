@@ -1,9 +1,9 @@
-#_{:clj-kondo/ignore [:namespace-name-mismatch]}
-(ns rccst-molecules
+
+(ns rccstui.molecules
   (:require [ui-component.tabbed-pane.utils :as tab-utils]
             [ui-component.atom.bhui.navbar :as navbar]
-            [rccst-ui-components.molecule.general :as general]
-            [rccst-ui-components.molecule.all :as all]
+            [rccstui.rccst-ui-components.molecule.general :as general]
+            [rccstui.rccst-ui-components.molecule.all :as all]
             [ui-component.atom.bhui.tabbed-panel :as tabbed-panel]
             [woolybear.ad.layout :as layout]))
 

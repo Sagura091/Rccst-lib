@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.card.flippable-card
+(ns rccstui.rccst-ui-component.atom.example.card.flippable-card
   (:require [ui-component.atom.card.flippable-card :as card]
             [re-com.core :as rc]
             [woolybear.ad.catalog.utils :as acu]

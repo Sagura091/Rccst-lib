@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.multi-example
+(ns rccstui.rccst-ui-component.atom.example.multi-example
   (:require [reagent.core :as r]
             [re-com.core :as rc]))
 

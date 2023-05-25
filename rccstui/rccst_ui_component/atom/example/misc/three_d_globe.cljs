@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.misc.three-d-globe
+(ns rccstui.rccst-ui-component.atom.example.misc.three-d-globe
   (:require [ui-component.atom.globe.globe-component :as globe]
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))

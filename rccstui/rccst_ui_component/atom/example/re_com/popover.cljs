@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.re-com.popover
+(ns rccstui.rccst-ui-component.atom.example.re-com.popover
   (:require [ui-component.atom.chart.area-chart :as area-chart]
             [ui-component.atom.chart.line-chart :as line-chart]
             [ui-component.atom.chart.sankey-chart :as sankey-chart]

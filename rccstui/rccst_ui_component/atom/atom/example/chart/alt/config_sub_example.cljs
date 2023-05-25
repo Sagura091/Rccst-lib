@@ -1,13 +1,13 @@
-(ns rccst-ui-component.atom.example.chart.alt.config-sub-example
-  (:require [rccst-ui-component.atom.utils :as e]
+(ns rccstui.rccst-ui-component.atom.example.chart.alt.config-sub-example
+  (:require [rccstui.rccst-ui-component.atom.utils :as e]
             [ui-component.utils :as ui-utils]
             [ui-component.utils.helpers :as h]
-            [rccst-ui-component.atom.example.chart.alt.show-data :as sd]
+            [rccstui.rccst-ui-component.atom.example.chart.alt.show-data :as sd]
             [re-com.core :as rc]
             [reagent.core :as r]
             [taoensso.timbre :as log]))
 
-(log/info "rccst-ui-component.atom.example.chart.bar-chart.data-sub-example")
+(log/info "rccstui.rccst-ui-component.atom.example.chart.bar-chart.data-sub-example")
 
 
 (defn- config [config-data]

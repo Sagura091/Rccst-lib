@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.re-com.radio-button
+(ns rccstui.rccst-ui-component.atom.example.re-com.radio-button
   (:require [re-com.core :as rc]
             [reagent.ratom :as ratom]
             [woolybear.ad.catalog.utils :as acu]))

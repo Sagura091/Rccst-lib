@@ -1,4 +1,4 @@
-(ns rccst-ui-component.technologies.overview.data-flow.ui-tutorial
+(ns rccstui.rccst-ui-component.technologies.overview.data-flow.ui-tutorial
   (:require [woolybear.ad.layout :as layout]))
 
 

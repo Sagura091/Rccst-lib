@@ -1,5 +1,5 @@
-(ns rccst-ui-component.technologies.overview.woolybear
-  (:require [rccst-ui-component.technologies.overview.overview :as o]))
+(ns rccstui.rccst-ui-component.technologies.overview.woolybear
+  (:require [rccstui.rccst-ui-component.technologies.overview.overview :as o]))
 
 (defn overview []
       (o/overview "Woolybear"

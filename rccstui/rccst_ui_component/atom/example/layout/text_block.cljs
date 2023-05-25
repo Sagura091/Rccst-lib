@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.layout.text-block
+(ns rccstui.rccst-ui-component.atom.example.layout.text-block
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))
 

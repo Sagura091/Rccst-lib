@@ -1,19 +1,19 @@
 #_{:clj-kondo/ignore [:namespace-name-mismatch]}
-(ns rccst-ui-component.molecule.general
+(ns rccstui.rccst-ui-component.molecule.general
   "Catalog and demonstrations of general components."
   (:require [taoensso.timbre :as log]
-            [rccst-ui-component.molecule.example.header-bar :as header-bar]
-            [rccst-ui-component.molecule.example.login :as login]
-            [rccst-ui-component.molecule.example.two-d-three-d-globe :as two-d-three-d-globe]
-            [rccst-ui-component.molecule.example.composite.coverage-plan :as coverage-plan]
-            [rccst-ui-component.molecule.example.composite.chart-remote-data :as chart-remote-data]
-            [rccst-ui-component.molecule.example.composite.simple-multi-chart :as simple-multi-chart]
-            [rccst-ui-component.molecule.example.composite.simple-multi-chart-2 :as simple-multi-chart-2]
-            [rccst-ui-component.molecule.example.composite.with-fn-example :as with-fn]
-            [rccst-ui-component.molecule.example.composite.multi-chart-widget :as multi-chart-widget]))
+            [rccstui.rccst-ui-component.molecule.example.header-bar :as header-bar]
+            [rccstui.rccst-ui-component.molecule.example.login :as login]
+            [rccstui.rccst-ui-component.molecule.example.two-d-three-d-globe :as two-d-three-d-globe]
+            [rccstui.rccst-ui-component.molecule.example.composite.coverage-plan :as coverage-plan]
+            [rccstui.rccst-ui-component.molecule.example.composite.chart-remote-data :as chart-remote-data]
+            [rccstui.rccst-ui-component.molecule.example.composite.simple-multi-chart :as simple-multi-chart]
+            [rccstui.rccst-ui-component.molecule.example.composite.simple-multi-chart-2 :as simple-multi-chart-2]
+            [rccstui.rccst-ui-component.molecule.example.composite.with-fn-example :as with-fn]
+            [rccstui.rccst-ui-component.molecule.example.composite.multi-chart-widget :as multi-chart-widget]))
 
 
-(log/info "rccst-ui-component.molecule.general")
+(log/info "rccstui.rccst-ui-component.molecule.general")
 
 
 (defn catalog []

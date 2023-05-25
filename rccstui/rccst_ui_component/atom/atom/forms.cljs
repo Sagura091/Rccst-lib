@@ -1,19 +1,19 @@
-(ns rccst-ui-component.atom.forms
+(ns rccstui.rccst-ui-component.atom.forms
   "Catalog and acu/demonstrations of available form and form-field components."
   (:require [re-frame.core :as re-frame]
-            [rccst-ui-component.atom.example.forms.simple-form-label :as simple-label]
-            [rccst-ui-component.atom.example.forms.required-form-label :as required-label]
-            [rccst-ui-component.atom.example.forms.text-input :as text-input]
-            [rccst-ui-component.atom.example.forms.password-input :as pass-input]
-            [rccst-ui-component.atom.example.forms.placeholder-text-input :as place-text-input]
-            [rccst-ui-component.atom.example.forms.disabled-text-input :as disabled-text-input]
-            [rccst-ui-component.atom.example.forms.error-text-input :as error-text-input]
-            [rccst-ui-component.atom.example.forms.simple-select-input :as simple-select-input]
-            [rccst-ui-component.atom.example.forms.custom-select-input :as custom-select-input]
-            [rccst-ui-component.atom.example.forms.disabled-select-input :as disabled-select-input]
-            [rccst-ui-component.atom.example.forms.multi-select-input :as multi-select-input]
-            [rccst-ui-component.atom.example.forms.checkbox :as checkbox]
-            [rccst-ui-component.atom.example.forms.disabled-checkbox :as disabled-checkbox]))
+            [rccstui.rccst-ui-component.atom.example.forms.simple-form-label :as simple-label]
+            [rccstui.rccst-ui-component.atom.example.forms.required-form-label :as required-label]
+            [rccstui.rccst-ui-component.atom.example.forms.text-input :as text-input]
+            [rccstui.rccst-ui-component.atom.example.forms.password-input :as pass-input]
+            [rccstui.rccst-ui-component.atom.example.forms.placeholder-text-input :as place-text-input]
+            [rccstui.rccst-ui-component.atom.example.forms.disabled-text-input :as disabled-text-input]
+            [rccstui.rccst-ui-component.atom.example.forms.error-text-input :as error-text-input]
+            [rccstui.rccst-ui-component.atom.example.forms.simple-select-input :as simple-select-input]
+            [rccstui.rccst-ui-component.atom.example.forms.custom-select-input :as custom-select-input]
+            [rccstui.rccst-ui-component.atom.example.forms.disabled-select-input :as disabled-select-input]
+            [rccstui.rccst-ui-component.atom.example.forms.multi-select-input :as multi-select-input]
+            [rccstui.rccst-ui-component.atom.example.forms.checkbox :as checkbox]
+            [rccstui.rccst-ui-component.atom.example.forms.disabled-checkbox :as disabled-checkbox]))
 
 
 (re-frame/reg-sub

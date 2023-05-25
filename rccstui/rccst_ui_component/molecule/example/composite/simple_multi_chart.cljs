@@ -1,4 +1,4 @@
-(ns rccst-ui-component.molecule.example.composite.simple-multi-chart
+(ns rccstui.rccst-ui-component.molecule.example.composite.simple-multi-chart
   (:require [ui-component.atom.chart.utils :as chart-utils]
             [ui-component.molecule.composite.simple-multi-chart :as widget]
             [ui-component.molecule.grid-container :as grid]
@@ -12,7 +12,7 @@
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccst-ui-component.molecule.example.composite.simple-multi-chart")
+(log/info "rccstui.rccst-ui-component.molecule.example.composite.simple-multi-chart")
 
 
 (defn- data-tools [data]

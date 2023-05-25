@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.re-com.splitter
+(ns rccstui.rccst-ui-component.atom.example.re-com.splitter
   (:require [re-com.core :as rc]
             [reagent.core :as r]
             [taoensso.timbre :as log]

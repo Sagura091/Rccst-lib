@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.layout.section
+(ns rccstui.rccst-ui-component.atom.example.layout.section
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))
 

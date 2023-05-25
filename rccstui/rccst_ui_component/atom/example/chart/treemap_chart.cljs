@@ -1,6 +1,6 @@
-(ns rccst-ui-component.atom.example.chart.treemap-chart
+(ns rccstui.rccst-ui-component.atom.example.chart.treemap-chart
   (:require [ui-component.atom.chart.treemap-chart :as chart]
-            [rccst-ui-component.atom.utils :as example]
+            [rccstui.rccst-ui-component.atom.utils :as example]
             [ui-component.utils :as utils]
             [taoensso.timbre :as log]))
 

@@ -1,6 +1,6 @@
-(ns rccst-ui-component.atom.example.diagram.flow
+(ns rccstui.rccst-ui-component.atom.example.diagram.flow
   (:require [ui-component.atom.diagram.flow :as flow]
-            [rccst-ui-component.atom.utils :as example]
+            [rccstui.rccst-ui-component.atom.utils :as example]
             [ui-component.utils :as utils]
             [taoensso.timbre :as log]))
 

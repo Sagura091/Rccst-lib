@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.icons.small-icon
+(ns rccstui.rccst-ui-component.atom.example.icons.small-icon
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.containers :as containers]
             [woolybear.ad.icons :as icons]))

@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.button.toggle-button
+(ns rccstui.rccst-ui-component.atom.example.button.toggle-button
   (:require [reagent.ratom :as ratom]
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]

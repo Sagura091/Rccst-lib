@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.container.navbar
+(ns rccstui.rccst-ui-component.atom.example.container.navbar
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]
             [woolybear.packs.tab-panel :as tab-panel]

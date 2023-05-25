@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.re-com.date-picker
+(ns rccstui.rccst-ui-component.atom.example.re-com.date-picker
   (:require-macros
     [reagent.ratom :refer [reaction]])
   (:require [cljs-time.coerce :refer [to-local-date]]

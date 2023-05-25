@@ -1,9 +1,9 @@
-(ns rccst-ui-component.technologies.systems-services
-  (:require [rccst-ui-component.technologies.overview.event-modeling :as event-modeling]
-            [rccst-ui-component.technologies.overview.kafka :as kafka]
-            [rccst-ui-component.technologies.overview.micro-services :as micro-services]
-            [rccst-ui-component.technologies.overview.re-frame-10x :as re-frame-10x]
-            [rccst-ui-component.technologies.overview.swagger :as swagger]
+(ns rccstui.rccst-ui-component.technologies.systems-services
+  (:require [rccstui.rccst-ui-component.technologies.overview.event-modeling :as event-modeling]
+            [rccstui.rccst-ui-component.technologies.overview.kafka :as kafka]
+            [rccstui.rccst-ui-component.technologies.overview.micro-services :as micro-services]
+            [rccstui.rccst-ui-component.technologies.overview.re-frame-10x :as re-frame-10x]
+            [rccstui.rccst-ui-component.technologies.overview.swagger :as swagger]
             [re-com.core :as rc]
             [woolybear.ad.layout :as layout]))
 

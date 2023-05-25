@@ -1,23 +1,23 @@
-(ns rccst-ui-component.atom.re-com
-  (:require [rccst-ui-component.atom.example.re-com.alert-box :as alert-box]
-            [rccst-ui-component.atom.example.re-com.checkbox-re-com :as checkbox]
-            [rccst-ui-component.atom.example.re-com.date-picker :as date-picker]
-            [rccst-ui-component.atom.example.re-com.editable-table :as editable-table]
-            [rccst-ui-component.atom.example.re-com.input-time :as input-time]
-            [rccst-ui-component.atom.example.re-com.label :as label]
-            [rccst-ui-component.atom.example.re-com.label :as label]
-            [rccst-ui-component.atom.example.re-com.line :as line]
-            [rccst-ui-component.atom.example.re-com.meta-coc-editable-table :as meta-coc-editable-table]
-            [rccst-ui-component.atom.example.re-com.meta-editable-table :as meta-editable-table]
-            [rccst-ui-component.atom.example.re-com.meta-table :as meta-table]
-            [rccst-ui-component.atom.example.re-com.popover :as popover]
-            [rccst-ui-component.atom.example.re-com.progress-bar :as progress-bar]
-            [rccst-ui-component.atom.example.re-com.radio-button :as radio-button]
-            [rccst-ui-component.atom.example.re-com.slider :as slider]
-            [rccst-ui-component.atom.example.re-com.splitter :as splitter]
-            [rccst-ui-component.atom.example.re-com.table :as table]
-            [rccst-ui-component.atom.example.re-com.text-input-re-com :as input-text]
-            [rccst-ui-component.atom.example.re-com.throbber :as throbber]))
+(ns rccstui.rccst-ui-component.atom.re-com
+  (:require [rccstui.rccst-ui-component.atom.example.re-com.alert-box :as alert-box]
+            [rccstui.rccst-ui-component.atom.example.re-com.checkbox-re-com :as checkbox]
+            [rccstui.rccst-ui-component.atom.example.re-com.date-picker :as date-picker]
+            [rccstui.rccst-ui-component.atom.example.re-com.editable-table :as editable-table]
+            [rccstui.rccst-ui-component.atom.example.re-com.input-time :as input-time]
+            [rccstui.rccst-ui-component.atom.example.re-com.label :as label]
+            [rccstui.rccst-ui-component.atom.example.re-com.label :as label]
+            [rccstui.rccst-ui-component.atom.example.re-com.line :as line]
+            [rccstui.rccst-ui-component.atom.example.re-com.meta-coc-editable-table :as meta-coc-editable-table]
+            [rccstui.rccst-ui-component.atom.example.re-com.meta-editable-table :as meta-editable-table]
+            [rccstui.rccst-ui-component.atom.example.re-com.meta-table :as meta-table]
+            [rccstui.rccst-ui-component.atom.example.re-com.popover :as popover]
+            [rccstui.rccst-ui-component.atom.example.re-com.progress-bar :as progress-bar]
+            [rccstui.rccst-ui-component.atom.example.re-com.radio-button :as radio-button]
+            [rccstui.rccst-ui-component.atom.example.re-com.slider :as slider]
+            [rccstui.rccst-ui-component.atom.example.re-com.splitter :as splitter]
+            [rccstui.rccst-ui-component.atom.example.re-com.table :as table]
+            [rccstui.rccst-ui-component.atom.example.re-com.text-input-re-com :as input-text]
+            [rccstui.rccst-ui-component.atom.example.re-com.throbber :as throbber]))
 
 
 (defn examples

@@ -1,4 +1,4 @@
-(ns rccst-ui-component.organism.ui-grid.ratom-example
+(ns rccstui.rccst-ui-component.organism.ui-grid.ratom-example
   (:require [ui-component.organism.ui-grid :as grid]
             [ui-component.molecule.composite.chart-remote-data :as chart-remote-data]
             [ui-component.molecule.composite.coverage-plan :as coverage-plan]
@@ -14,7 +14,7 @@
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccst-ui-component.organism.ui-grid.ratom-example")
+(log/info "rccstui.rccst-ui-component.organism.ui-grid.ratom-example")
 
 
 (def container-id "ui-grid-ratom-demo")

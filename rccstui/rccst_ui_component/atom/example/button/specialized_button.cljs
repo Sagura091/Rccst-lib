@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.button.specialized-button
+(ns rccstui.rccst-ui-component.atom.example.button.specialized-button
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]
             [woolybear.ad.buttons :as buttons]))

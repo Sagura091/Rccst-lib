@@ -1,5 +1,5 @@
-(ns rccst-ui-component.technologies.overview.compojure
-  (:require [rccst-ui-component.technologies.overview.overview :as o]))
+(ns rccstui.rccst-ui-component.technologies.overview.compojure
+  (:require [rccstui.rccst-ui-component.technologies.overview.overview :as o]))
 
 
 

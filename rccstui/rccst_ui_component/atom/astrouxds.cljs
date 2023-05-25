@@ -1,13 +1,13 @@
-(ns rccst-ui-component.atom.astrouxds
+(ns rccstui.rccst-ui-component.atom.astrouxds
       "Catalog and demonstrations of available AstroUXDS components."
-      (:require [rccst-ui-component.atom.example.astrouxds.button :as button]
-                [rccst-ui-component.atom.example.astrouxds.classification-marking :as cm]
-                [rccst-ui-component.atom.example.astrouxds.classification-list :as cl]
-                [rccst-ui-component.atom.example.astrouxds.status :as status]
-                [rccst-ui-component.atom.example.astrouxds.progress-bar :as progress-bar]
-                [rccst-ui-component.atom.example.astrouxds.slider :as slider]
-                [rccst-ui-component.atom.example.astrouxds.radio-button :as rb]
-                [rccst-ui-component.atom.example.astrouxds.table :as table]))
+      (:require [rccstui.rccst-ui-component.atom.example.astrouxds.button :as button]
+                [rccstui.rccst-ui-component.atom.example.astrouxds.classification-marking :as cm]
+                [rccstui.rccst-ui-component.atom.example.astrouxds.classification-list :as cl]
+                [rccstui.rccst-ui-component.atom.example.astrouxds.status :as status]
+                [rccstui.rccst-ui-component.atom.example.astrouxds.progress-bar :as progress-bar]
+                [rccstui.rccst-ui-component.atom.example.astrouxds.slider :as slider]
+                [rccstui.rccst-ui-component.atom.example.astrouxds.radio-button :as rb]
+                [rccstui.rccst-ui-component.atom.example.astrouxds.table :as table]))
 
 
 (defn examples

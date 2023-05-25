@@ -1,4 +1,4 @@
-(ns rccst-ui-component.molecule.example.composite.grid-widget
+(ns rccstui.rccst-ui-component.molecule.example.composite.grid-widget
   (:require [ui-component.molecule.composite.coverage-plan :as plan]
             [ui-component.molecule.grid-container :as grid]
             [ui-component.utils.helpers :as h]

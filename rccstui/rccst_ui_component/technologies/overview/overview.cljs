@@ -1,4 +1,4 @@
-(ns rccst-ui-component.technologies.overview.overview
+(ns rccstui.rccst-ui-component.technologies.overview.overview
   (:require [woolybear.ad.layout :as layout]
             [woolybear.ad.images :as images]
             [re-com.core :as rc]))

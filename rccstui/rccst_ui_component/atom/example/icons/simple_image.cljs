@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.icons.simple-image
+(ns rccstui.rccst-ui-component.atom.example.icons.simple-image
   (:require [ui-component.atom.bhui.markdown :as markdown]
             [re-com.core :as rc]
             [woolybear.ad.catalog.utils :as acu]
