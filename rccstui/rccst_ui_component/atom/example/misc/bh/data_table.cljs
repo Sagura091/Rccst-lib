@@ -1,12 +1,12 @@
-(ns rccst-ui-component.atom.example.misc.bhui.data-table
-  (:require [ui-component.atom.bhui.data-table :as table]
+(ns rccst-ui-component.atom.example.misc.data-table
+  (:require [ui-component.atom.data-table :as table]
             [re-com.core :as rc]
             [reagent.core :as r]
             [taoensso.timbre :as log]
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))
 
-(log/info "rccst-ui-component.atom.example.misc.bhui.data-table")
+(log/info "rccst-ui-component.atom.example.misc.data-table")
 
 
 (defonce data (r/atom table/sample-data))

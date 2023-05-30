@@ -1,5 +1,5 @@
 (ns rccst-ui-component.atom.example.re-com.alert-box
-  (:require [ui-component.atom.bhui.markdown :as markdown]
+  (:require [ui-component.atom.markdown :as markdown]
             [re-com.core :as rc]
             [reagent.core :as r]
             [woolybear.ad.catalog.utils :as acu]

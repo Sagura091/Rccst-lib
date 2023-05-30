@@ -3,7 +3,7 @@
   Misc utilities for rendering demonstrations in the RCCTS Catalog, including
   a utility for pop-up source code blocks.
   "
-  (:require [ui-component.atom.bhui.navbar :as navbar]
+  (:require [ui-component.atom.navbar :as navbar]
             [ui-component.utils :as ui-utils]
             [clojure.string :as string]
             [re-com.core :as rc]
