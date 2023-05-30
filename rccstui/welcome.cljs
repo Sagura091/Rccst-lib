@@ -3,11 +3,11 @@
   (:require [woolybear.ad.layout :as layout]
             [re-com.core :as rc]
             [woolybear.packs.flex-panel :as flex]
-            [welcome.how-to-use :as how-to-use]
-            [rccst-ui-components.welcome.rationale :as rationale]
-            [rccst-ui-components.welcome.examples :as examples]
-            [rccst-ui-components.welcome.installing :as installing]
-            [rccst-ui-components.welcome.adding-catalog :as adding-catalog]))
+            [rccst-ui-component.welcome.how-to-use :as how-to-use]
+            [rccst-ui-component.welcome.rationale :as rationale]
+            [rccst-ui-component.welcome.examples :as examples]
+            [rccst-ui-component.welcome.installing :as installing]
+            [rccst-ui-component.welcome.adding-catalog :as adding-catalog]))
 
 
 

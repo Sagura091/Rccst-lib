@@ -2,11 +2,11 @@
 (ns technologies
   (:require [ui-component.atom.bhui.tabbed-panel :as tabbed-panel]
             [woolybear.ad.layout :as layout]
-            [rccst-ui-components.technologies.overview.data-flow-digraph :as data-flow]
-            [rccst-ui-components.technologies.clojure :as tech-clj]
-            [rccst-ui-components.technologies.clojurescript :as tech-cljs]
-            [rccst-ui-components.technologies.systems-services :as s-s]
-            [rccst-ui-components.technologies.all :as all]))
+            [rccst-ui-component.technologies.overview.data-flow-digraph :as data-flow]
+            [rccst-ui-component.technologies.clojure :as tech-clj]
+            [rccst-ui-component.technologies.clojurescript :as tech-cljs]
+            [rccst-ui-component.technologies.systems-services :as s-s]
+            [rccst-ui-component.technologies.all :as all]))
 
 
 

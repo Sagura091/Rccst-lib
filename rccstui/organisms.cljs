@@ -2,7 +2,7 @@
 (ns organisms
   (:require [taoensso.timbre :as log]
             [woolybear.ad.layout :as layout]
-            [rccst-ui-components.organism.ui-grid :as ui-grid]))
+            [rccst-ui-component.organism.ui-grid :as ui-grid]))
 
 
 (log/info "rccst-ui-components.organisms")
