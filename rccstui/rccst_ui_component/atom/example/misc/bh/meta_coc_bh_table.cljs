@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.misc.bhui.meta-coc-bhui-table
+(ns rccst-ui-component.atom.example.misc.bhui.meta-coc-bhui-table
   (:require [ui-component.atom.bhui.table :as table]
             [ui-component.utils :as ui-utils]
             [ui-component.utils.helpers :as h]
@@ -9,7 +9,7 @@
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccstui.rccst-ui-component.atom.example.misc.bhui.meta-coc-bhui-table")
+(log/info "rccst-ui-component.atom.example.misc.bhui.meta-coc-bhui-table")
 
 
 (defonce data (r/atom table/sample-meta-coc-data))

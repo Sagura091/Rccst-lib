@@ -1,4 +1,4 @@
-(ns rccstui.giants
+(ns giants
   (:require [taoensso.timbre :as log]
             [woolybear.ad.layout :as layout]
             [woolybear.packs.flex-panel :as flex]

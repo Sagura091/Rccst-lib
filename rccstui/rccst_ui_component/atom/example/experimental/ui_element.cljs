@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.experimental.ui-element
+(ns rccst-ui-component.atom.example.experimental.ui-element
   (:require [ui-component.atom.experimental.ui-element :as elements]
             [ui-component.utils :as utils]
             [taoensso.timbre :as log]
@@ -6,7 +6,7 @@
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccstui.rccst-ui-component.atom.example.experimental.ui-element")
+(log/info "rccst-ui-component.atom.example.experimental.ui-element")
 
 
 (defn selectable-table []

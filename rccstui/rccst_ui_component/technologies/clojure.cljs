@@ -1,12 +1,12 @@
-(ns rccstui.rccst-ui-component.technologies.clojure
-  (:require [rccstui.rccst-ui-component.technologies.overview.compojure :as compojure-overview]
-            [rccstui.rccst-ui-component.technologies.overview.component :as component-overview]
-            [rccstui.rccst-ui-component.technologies.overview.jackdaw :as jackdaw-overview]
+(ns rccst-ui-component.technologies.clojure
+  (:require [rccst-ui-component.technologies.overview.compojure :as compojure-overview]
+            [rccst-ui-component.technologies.overview.component :as component-overview]
+            [rccst-ui-component.technologies.overview.jackdaw :as jackdaw-overview]
 
-            [rccstui.rccst-ui-component.technologies.overview.next-jdbc :as next-jdbc-overview]
-            [rccstui.rccst-ui-component.technologies.overview.ring :as ring-overview]
-            [rccstui.rccst-ui-component.technologies.overview.sente :as sente-overview]
-            [rccstui.rccst-ui-component.technologies.overview.transit :as transit-overview]
+            [rccst-ui-component.technologies.overview.next-jdbc :as next-jdbc-overview]
+            [rccst-ui-component.technologies.overview.ring :as ring-overview]
+            [rccst-ui-component.technologies.overview.sente :as sente-overview]
+            [rccst-ui-component.technologies.overview.transit :as transit-overview]
             [re-com.core :as rc]
             [woolybear.ad.layout :as layout]))
 

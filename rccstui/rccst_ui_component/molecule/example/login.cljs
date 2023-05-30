@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.molecule.example.login
+(ns rccst-ui-component.molecule.example.login
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]
 

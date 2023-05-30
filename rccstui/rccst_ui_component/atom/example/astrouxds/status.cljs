@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.astrouxds.status
+(ns rccst-ui-component.atom.example.astrouxds.status
   (:require [ui-component.atom.astrouxds.status :as status]
             [re-com.core :as rc]
             [woolybear.ad.catalog.utils :as acu]))

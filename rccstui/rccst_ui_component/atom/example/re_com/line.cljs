@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.re-com.line
+(ns rccst-ui-component.atom.example.re-com.line
   (:require [re-com.core :as rc]
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))

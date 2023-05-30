@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.layout.markdown-block
+(ns rccst-ui-component.atom.example.layout.markdown-block
   (:require [reagent.core :as r]
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))

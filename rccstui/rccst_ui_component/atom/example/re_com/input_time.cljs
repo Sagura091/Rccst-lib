@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.re-com.input-time
+(ns rccst-ui-component.atom.example.re-com.input-time
   (:require [re-com.core :as core]
             [re-com.input-time :as time]
             [reagent.core :as r]

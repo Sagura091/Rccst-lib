@@ -1,9 +1,9 @@
-(ns rccstui.rccst-ui-component.atom.experimental
-  (:require [rccstui.rccst-ui-component.atom.example.oz.line-chart :as oz-line-chart]
-            [rccstui.rccst-ui-component.atom.example.oz.bar-chart :as oz-bar-chart]
-            [rccstui.rccst-ui-component.atom.example.experimental.ui-element :as ui-element]
+(ns rccst-ui-component.atom.experimental
+  (:require [rccst-ui-component.atom.example.oz.line-chart :as oz-line-chart]
+            [rccst-ui-component.atom.example.oz.bar-chart :as oz-bar-chart]
+            [rccst-ui-component.atom.example.experimental.ui-element :as ui-element]
 
-            [rccstui.rccst-ui-component.atom.example.re-com.plain-table :as plain-table]))
+            [rccst-ui-component.atom.example.re-com.plain-table :as plain-table]))
 
 
 

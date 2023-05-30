@@ -1,6 +1,6 @@
-(ns rccstui.rccst-ui-component.atom.example.oz.line-chart
+(ns rccst-ui-component.atom.example.oz.line-chart
   (:require [ui-component.atom.oz.line-chart :as chart]
-            [rccstui.rccst-ui-component.atom.utils :as example]
+            [rccst-ui-component.atom.utils :as example]
             [ui-component.utils :as utils]
             [taoensso.timbre :as log]))
 

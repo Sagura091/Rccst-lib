@@ -1,15 +1,15 @@
-(ns rccstui.rccst-ui-component.atom.example.chart.radial-bar-chart
+(ns rccst-ui-component.atom.example.chart.radial-bar-chart
   (:require [ui-component.atom.chart.radial-bar-chart :as chart]
             [ui-component.atom.chart.utils :as chart-utils]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.data-ratom-example :as data-ratom-example]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.data-structure-example :as data-structure-example]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.data-sub-example :as data-sub-example]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.config-ratom-example :as config-ratom-example]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.config-structure-example :as config-structure-example]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.config-sub-example :as config-sub-example]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.data-tools :as data-tools]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.config-tools :as config-tools]
-            [rccstui.rccst-ui-component.atom.example.multi-example :as me]))
+            [rccst-ui-component.atom.example.chart.alt.data-ratom-example :as data-ratom-example]
+            [rccst-ui-component.atom.example.chart.alt.data-structure-example :as data-structure-example]
+            [rccst-ui-component.atom.example.chart.alt.data-sub-example :as data-sub-example]
+            [rccst-ui-component.atom.example.chart.alt.config-ratom-example :as config-ratom-example]
+            [rccst-ui-component.atom.example.chart.alt.config-structure-example :as config-structure-example]
+            [rccst-ui-component.atom.example.chart.alt.config-sub-example :as config-sub-example]
+            [rccst-ui-component.atom.example.chart.alt.data-tools :as data-tools]
+            [rccst-ui-component.atom.example.chart.alt.config-tools :as config-tools]
+            [rccst-ui-component.atom.example.multi-example :as me]))
 
 
 

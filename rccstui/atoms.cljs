@@ -1,19 +1,19 @@
-(ns rccstui.atoms
+(ns atoms
   (:require [ui-component.atom.bhui.tabbed-panel :as tabbed-panel]
-            [rccstui.rccst-ui-component.atom.all :as all-demo]
-            [rccstui.rccst-ui-component.atom.astrouxds :as astro-demo]
-            [rccstui.rccst-ui-component.atom.buttons :as buttons-demo]
-            [rccstui.rccst-ui-component.atom.cards :as cards-demo]
+            [rccst-ui-component.atom.all :as all-demo]
+            [rccst-ui-component.atom.astrouxds :as astro-demo]
+            [rccst-ui-component.atom.buttons :as buttons-demo]
+            [rccst-ui-component.atom.cards :as cards-demo]
 
-            [rccstui.rccst-ui-component.atom.charts :as charts-demo]
-            [rccstui.rccst-ui-component.atom.containers :as containers-demo]
-            [rccstui.rccst-ui-component.atom.diagrams :as diagrams-demo]
-            [rccstui.rccst-ui-component.atom.experimental :as experimental]
-            [rccstui.rccst-ui-component.atom.forms :as forms-demo]
-            [rccstui.rccst-ui-component.atom.icons :as icons-demo]
-            [rccstui.rccst-ui-component.atom.layouts :as layout-demo]
-            [rccstui.rccst-ui-component.atom.miscellaneous :as misc]
-            [rccstui.rccst-ui-component.atom.re-com :as re-com-demo]
+            [rccst-ui-component.atom.charts :as charts-demo]
+            [rccst-ui-component.atom.containers :as containers-demo]
+            [rccst-ui-component.atom.diagrams :as diagrams-demo]
+            [rccst-ui-component.atom.experimental :as experimental]
+            [rccst-ui-component.atom.forms :as forms-demo]
+            [rccst-ui-component.atom.icons :as icons-demo]
+            [rccst-ui-component.atom.layouts :as layout-demo]
+            [rccst-ui-component.atom.miscellaneous :as misc]
+            [rccst-ui-component.atom.re-com :as re-com-demo]
 
             [woolybear.ad.layout :as layout]))
 

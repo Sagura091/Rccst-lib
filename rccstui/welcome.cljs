@@ -1,13 +1,13 @@
 
-(ns rccstui.welcome
+(ns welcome
   (:require [woolybear.ad.layout :as layout]
             [re-com.core :as rc]
             [woolybear.packs.flex-panel :as flex]
             [welcome.how-to-use :as how-to-use]
-            [rccstui.rccst-ui-components.welcome.rationale :as rationale]
-            [rccstui.rccst-ui-components.welcome.examples :as examples]
-            [rccstui.rccst-ui-components.welcome.installing :as installing]
-            [rccstui.rccst-ui-components.welcome.adding-catalog :as adding-catalog]))
+            [rccst-ui-components.welcome.rationale :as rationale]
+            [rccst-ui-components.welcome.examples :as examples]
+            [rccst-ui-components.welcome.installing :as installing]
+            [rccst-ui-components.welcome.adding-catalog :as adding-catalog]))
 
 
 

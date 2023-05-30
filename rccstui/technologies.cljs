@@ -1,12 +1,12 @@
 #_{:clj-kondo/ignore [:namespace-name-mismatch]}
-(ns rccstui.echnologies
+(ns technologies
   (:require [ui-component.atom.bhui.tabbed-panel :as tabbed-panel]
             [woolybear.ad.layout :as layout]
-            [rccstui.rccst-ui-components.technologies.overview.data-flow-digraph :as data-flow]
-            [rccstui.rccst-ui-components.technologies.clojure :as tech-clj]
-            [rccstui.rccst-ui-components.technologies.clojurescript :as tech-cljs]
-            [rccstui.rccst-ui-components.technologies.systems-services :as s-s]
-            [rccstui.rccst-ui-components.technologies.all :as all]))
+            [rccst-ui-components.technologies.overview.data-flow-digraph :as data-flow]
+            [rccst-ui-components.technologies.clojure :as tech-clj]
+            [rccst-ui-components.technologies.clojurescript :as tech-cljs]
+            [rccst-ui-components.technologies.systems-services :as s-s]
+            [rccst-ui-components.technologies.all :as all]))
 
 
 

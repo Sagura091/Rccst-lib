@@ -1,11 +1,11 @@
-#_{:clj-kondo/ignore [:namespace-name-mismatch]}
-(ns rccstui.templates
+
+(ns templates
   (:require [taoensso.timbre :as log]
             [woolybear.ad.layout :as layout]
-            [ui-component.atom.bhuiui.tabbed-panel :as tabbed-panel]))
+            [ui-component.atom.bhui.tabbed-panel :as tabbed-panel]))
 
 
-(log/info "rccstui.rccst-ui-components.templates")
+(log/info "rccst-ui-components.templates")
 
 
 (def navbar [[:templates/all "All" [:div "all Templates"]]])

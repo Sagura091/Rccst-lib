@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.layout.centered-block
+(ns rccst-ui-component.atom.example.layout.centered-block
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))
 

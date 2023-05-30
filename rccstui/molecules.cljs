@@ -1,9 +1,9 @@
 
-(ns rccstui.molecules
+(ns molecules
   (:require [ui-component.tabbed-pane.utils :as tab-utils]
             [ui-component.atom.bhui.navbar :as navbar]
-            [rccstui.rccst-ui-components.molecule.general :as general]
-            [rccstui.rccst-ui-components.molecule.all :as all]
+            [rccst-ui-components.molecule.general :as general]
+            [rccst-ui-components.molecule.all :as all]
             [ui-component.atom.bhui.tabbed-panel :as tabbed-panel]
             [woolybear.ad.layout :as layout]))
 

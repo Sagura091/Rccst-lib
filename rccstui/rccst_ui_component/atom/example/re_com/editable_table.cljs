@@ -1,11 +1,11 @@
-(ns rccstui.rccst-ui-component.atom.example.re-com.editable-table
+(ns rccst-ui-component.atom.example.re-com.editable-table
   (:require [ui-component.atom.re-com.editable-table :as table]
             [taoensso.timbre :as log]
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccstui.rccst-ui-component.atom.example.re-com.editable-table")
+(log/info "rccst-ui-component.atom.example.re-com.editable-table")
 
 
 (defonce data table/sample-data)

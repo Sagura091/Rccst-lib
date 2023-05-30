@@ -1,13 +1,13 @@
-(ns rccstui.rccst-ui-component.atom.example.chart.alt.data-ratom-example
-  (:require [rccstui.rccst-ui-component.atom.utils :as example]
+(ns rccst-ui-component.atom.example.chart.alt.data-ratom-example
+  (:require [rccst-ui-component.atom.utils :as example]
             [ui-component.utils :as utils]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.show-data :as sd]
+            [rccst-ui-component.atom.example.chart.alt.show-data :as sd]
             [re-com.core :as rc]
             [reagent.core :as r]
             [taoensso.timbre :as log]))
 
 
-(log/info "rccstui.rccst-ui-component.atom.example.chart.alt.data-ratom-example")
+(log/info "rccst-ui-component.atom.example.chart.alt.data-ratom-example")
 
 
 (defn- data-update-example [component default-data random-data

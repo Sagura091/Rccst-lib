@@ -1,11 +1,11 @@
 
-(ns rccst.organisms
+(ns organisms
   (:require [taoensso.timbre :as log]
             [woolybear.ad.layout :as layout]
-            [rccstui.rccst-ui-components.organism.ui-grid :as ui-grid]))
+            [rccst-ui-components.organism.ui-grid :as ui-grid]))
 
 
-(log/info "rccstui.rccst-ui-components.organisms")
+(log/info "rccst-ui-components.organisms")
 
 
 (defn page

@@ -1,6 +1,6 @@
-(ns rccstui.rccst-ui-component.organism.ui-grid
-  (:require [rccstui.rccst-ui-component.organism.ui-grid.ratom-example :as ratom-example]
-            [rccstui.rccst-ui-component.organism.ui-grid.sub-example :as sub-example]))
+(ns rccst-ui-component.organism.ui-grid
+  (:require [rccst-ui-component.organism.ui-grid.ratom-example :as ratom-example]
+            [rccst-ui-component.organism.ui-grid.sub-example :as sub-example]))
 
 
 (defn page []

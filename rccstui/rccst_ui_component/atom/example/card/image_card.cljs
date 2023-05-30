@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.card.image-card
+(ns rccst-ui-component.atom.example.card.image-card
   (:require [ui-component.atom.card.image-card :as card]
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]))

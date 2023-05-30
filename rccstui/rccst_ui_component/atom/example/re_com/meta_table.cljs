@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.re-com.meta-table
+(ns rccst-ui-component.atom.example.re-com.meta-table
   (:require [ui-component.atom.re-com.table :as table]
             [reagent.core :as r]
             [re-com.core :as rc]

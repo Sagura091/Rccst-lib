@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.utils
+(ns rccst-ui-component.atom.utils
   "
   Misc utilities for rendering demonstrations in the RCCTS Catalog, including
   a utility for pop-up source code blocks.

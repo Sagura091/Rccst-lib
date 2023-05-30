@@ -1,14 +1,14 @@
-(ns rccstui.rccst-ui-component.atom.example.chart.alt.config-ratom-example
+(ns rccst-ui-component.atom.example.chart.alt.config-ratom-example
   (:require [ui-component.atom.chart.utils :as chart-utils]
-            [rccstui.rccst-ui-component.atom.utils :as example]
+            [rccst-ui-component.atom.utils :as example]
             [ui-component.utils :as utils]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.show-data :as sd]
+            [rccst-ui-component.atom.example.chart.alt.show-data :as sd]
             [re-com.core :as rc]
             [reagent.core :as r]
             [taoensso.timbre :as log]))
 
 
-(log/info "rccstui.rccst-ui-component.atom.example.chart.alt.config-ratom-example")
+(log/info "rccst-ui-component.atom.example.chart.alt.config-ratom-example")
 
 
 (defn- config-update-example [component default-config-data

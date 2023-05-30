@@ -1,12 +1,12 @@
-(ns rccstui.rccst-ui-component.atom.example.chart.alt.config-structure-example
-  (:require [rccstui.rccst-ui-component.atom.utils :as example]
+(ns rccst-ui-component.atom.example.chart.alt.config-structure-example
+  (:require [rccst-ui-component.atom.utils :as example]
             [ui-component.utils :as utils]
-            [rccstui.rccst-ui-component.atom.example.chart.alt.show-data :as sd]
+            [rccst-ui-component.atom.example.chart.alt.show-data :as sd]
             [re-com.core :as rc]
             [taoensso.timbre :as log]))
 
 
-(log/info "rccstui.rccst-ui-component.atom.example.chart.bar-chart.config-structure-example")
+(log/info "rccst-ui-component.atom.example.chart.bar-chart.config-structure-example")
 
 
 (defn- config-example [component

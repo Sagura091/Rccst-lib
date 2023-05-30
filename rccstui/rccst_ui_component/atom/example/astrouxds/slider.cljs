@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.astrouxds.slider
+(ns rccst-ui-component.atom.example.astrouxds.slider
   (:require [ui-component.atom.astrouxds.slider :as slider]
             [re-com.core :as rc]
             [woolybear.ad.catalog.utils :as acu]))

@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.re-com.slider
+(ns rccst-ui-component.atom.example.re-com.slider
   (:require [re-com.core :as rc]
             [reagent.core :as r]
             [ui-component.atom.re-com.slider :as slider]

@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.astrouxds.table
+(ns rccst-ui-component.atom.example.astrouxds.table
   (:require [ui-component.atom.astrouxds.table :as table]
             [re-com.core :as rc]
             [woolybear.ad.catalog.utils :as acu]))

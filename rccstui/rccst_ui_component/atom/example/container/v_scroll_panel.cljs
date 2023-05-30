@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.container.v-scroll-panel
+(ns rccst-ui-component.atom.example.container.v-scroll-panel
   (:require [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]
             [woolybear.ad.containers :as containers]))

@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.re-com.label
+(ns rccst-ui-component.atom.example.re-com.label
   (:require [ui-component.atom.re-com.label :as label]
             [re-com.core :as rc]
             [reagent.core :as r]

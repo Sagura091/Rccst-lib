@@ -1,5 +1,5 @@
-(ns rccstui.rccst-ui-component.technologies.overview.component
-  (:require [rccstui.rccst-ui-component.technologies.overview.overview :as o]))
+(ns rccst-ui-component.technologies.overview.component
+  (:require [rccst-ui-component.technologies.overview.overview :as o]))
 
 (defn overview []
       [o/overview

@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.misc.hex-color-picker
+(ns rccst-ui-component.atom.example.misc.hex-color-picker
   (:require [ui-component.utils.color :as color]
             [re-com.core :as rc]
             [reagent.core :as r]

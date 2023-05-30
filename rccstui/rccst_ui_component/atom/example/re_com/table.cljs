@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.re-com.table
+(ns rccst-ui-component.atom.example.re-com.table
   (:require [ui-component.atom.re-com.table :as table]
             [reagent.core :as r]
             [taoensso.timbre :as log]

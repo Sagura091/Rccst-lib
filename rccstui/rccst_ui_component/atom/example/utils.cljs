@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.utils
+(ns rccst-ui-component.atom.example.utils
   (:require [re-com.core :as rc]))
 
 

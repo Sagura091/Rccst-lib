@@ -1,5 +1,5 @@
-(ns rccstui.rccst-ui-component.technologies.overview.atom-design
-  (:require [rccstui.rccst-ui-component.technologies.overview.overview :as o]))
+(ns rccst-ui-component.technologies.overview.atom-design
+  (:require [rccst-ui-component.technologies.overview.overview :as o]))
 
 
 (defn overview []

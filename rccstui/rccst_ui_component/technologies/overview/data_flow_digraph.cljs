@@ -1,6 +1,6 @@
-(ns rccstui.rccst-ui-component.technologies.overview.data-flow-digraph
+(ns rccst-ui-component.technologies.overview.data-flow-digraph
   (:require [woolybear.ad.layout :as layout]
-            [rccstui.rccst-ui-component.technologies.overview.data-flow.ui-tutorial :as tutorial]))
+            [rccst-ui-component.technologies.overview.data-flow.ui-tutorial :as tutorial]))
 
 
 (defn- intro []

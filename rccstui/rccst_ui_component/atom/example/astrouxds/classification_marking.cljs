@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.astrouxds.classification-marking
+(ns rccst-ui-component.atom.example.astrouxds.classification-marking
   (:require [ui-component.atom.astrouxds.classification-marking :as cm]
             [re-com.core :as rc]
             [woolybear.ad.catalog.utils :as acu]))

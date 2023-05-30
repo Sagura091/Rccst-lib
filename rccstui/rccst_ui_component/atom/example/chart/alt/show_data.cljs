@@ -1,10 +1,10 @@
-(ns rccstui.rccst-ui-component.atom.example.chart.alt.show-data
+(ns rccst-ui-component.atom.example.chart.alt.show-data
   (:require [ui-component.utils.helpers :as h]
             [re-com.core :as rc]
             [taoensso.timbre :as log]))
 
 
-(log/info "rccstui.rccst-ui-component.atom.example.chart.alt.show-data")
+(log/info "rccst-ui-component.atom.example.chart.alt.show-data")
 
 
 (defn show-data [data]

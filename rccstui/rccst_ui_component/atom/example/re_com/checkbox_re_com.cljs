@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.re-com.checkbox-re-com
+(ns rccst-ui-component.atom.example.re-com.checkbox-re-com
   (:require [re-com.core :as rc]
             [reagent.ratom :as ratom]
             [woolybear.ad.catalog.utils :as acu]))

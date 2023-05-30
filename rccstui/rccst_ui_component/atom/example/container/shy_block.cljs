@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.atom.example.container.shy-block
+(ns rccst-ui-component.atom.example.container.shy-block
   (:require [reagent.ratom :as ratom]
             [woolybear.ad.catalog.utils :as acu]
             [woolybear.ad.layout :as layout]

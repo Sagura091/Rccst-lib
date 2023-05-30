@@ -1,11 +1,11 @@
-(ns rccstui.rccst-ui-component.technologies.clojurescript
-  (:require [rccstui.rccst-ui-component.technologies.overview.atom-design :as atomic-design]
-            [rccstui.rccst-ui-component.technologies.overview.hiccup :as hiccup]
-            [rccstui.rccst-ui-component.technologies.overview.re-com :as re-com]
-            [rccstui.rccst-ui-component.technologies.overview.re-frame :as re-frame]
-            [rccstui.rccst-ui-component.technologies.overview.reagent :as reagent]
-            [rccstui.rccst-ui-component.technologies.overview.recharts :as recharts]
-            [rccstui.rccst-ui-component.technologies.overview.woolybear :as woolybear]
+(ns rccst-ui-component.technologies.clojurescript
+  (:require [rccst-ui-component.technologies.overview.atom-design :as atomic-design]
+            [rccst-ui-component.technologies.overview.hiccup :as hiccup]
+            [rccst-ui-component.technologies.overview.re-com :as re-com]
+            [rccst-ui-component.technologies.overview.re-frame :as re-frame]
+            [rccst-ui-component.technologies.overview.reagent :as reagent]
+            [rccst-ui-component.technologies.overview.recharts :as recharts]
+            [rccst-ui-component.technologies.overview.woolybear :as woolybear]
             [re-com.core :as rc]
             [woolybear.ad.layout :as layout]))
 

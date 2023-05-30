@@ -1,4 +1,4 @@
-(ns rccstui.rccst-ui-component.molecule.example.header-bar
+(ns rccst-ui-component.molecule.example.header-bar
   (:require [ui-component.atom.re-com.button :as button]
             [ui-component.atom.re-com.header-bar :as header-bar]
             [rccst.events :as events]

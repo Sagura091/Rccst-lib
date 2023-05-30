@@ -1,5 +1,5 @@
-(ns rccstui.rccst-ui-component.technologies.overview.re-frame-10x
-  (:require [rccstui.rccst-ui-component.technologies.overview.overview :as o]))
+(ns rccst-ui-component.technologies.overview.re-frame-10x
+  (:require [rccst-ui-component.technologies.overview.overview :as o]))
 
 
 (defn overview []
