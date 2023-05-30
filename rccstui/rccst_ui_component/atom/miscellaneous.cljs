@@ -8,7 +8,7 @@
             [rccst-ui-component.atom.example.misc.bh.meta-bh-table :as meta-bh-table]
             [rccst-ui-component.atom.example.misc.bh.meta-coc-bh-table :as meta-coc-bh-table]
             [rccst-ui-component.atom.example.misc.worldwind.globe :as ww-globe]
-            [rccst-ui-component.atom.example.misc.data-table :as data-table]))
+            [rccst-ui-component.atom.example.misc.bh.data-table :as data-table]))
 
 
 (defn examples
