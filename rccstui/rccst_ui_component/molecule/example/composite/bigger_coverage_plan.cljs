@@ -1,6 +1,6 @@
-(ns rccst-ui-component.molecule.example.composite.coverage-plan
+(ns rccst-ui-component.molecule.example.composite.bigger-coverage-plan
   (:require [subs :as subs]
-            [ui-component.molecule.composite.coverage-plan :as coverage-plan]
+            [rccst-ui-component.molecule.example.composite.bigger-coverage-plan :as coverage-plan]
             [ui-component.molecule.grid-container :as grid]
             [ui-component.utils.helpers :as h]
             [re-com.core :as rc]
@@ -11,13 +11,13 @@
             [woolybear.ad.layout :as layout]))
 
 
-(log/info "rccst-ui-component.molecule.example.composite.coverage-plan")
+(log/info "rccst.views.molecule.example.composite.coverage-plan")
 
 
 (defn ww-example []
   (let [container-id     "coverage-plan-demo-ww"
         logged-in?       (re-frame/subscribe [:rccst.subs/logged-in?])
-        pub-sub-started? (re-frame/subscribe [:bhui.subs/pub-sub-started?])]
+        pub-sub-started? (re-frame/subscribe [:bh.subs/pub-sub-started?])]
 
     (if (not @logged-in?)
       (re-frame/dispatch [:rccst.events/login "test-user" "test-pwd"]))
@@ -51,7 +51,7 @@
 (defn r-example []
   (let [container-id     "coverage-plan-demo-r"
         logged-in?       (re-frame/subscribe [:rccst.subs/logged-in?])
-        pub-sub-started? (re-frame/subscribe [:bhui.subs/pub-sub-started?])]
+        pub-sub-started? (re-frame/subscribe [:bh.subs/pub-sub-started?])]
 
     (if (not @logged-in?)
       (re-frame/dispatch [:rccst.events/login "test-user" "test-pwd"]))
@@ -90,7 +90,7 @@
 (defn twoD-example []
   (let [container-id     "coverage-plan-demo-2D"
         logged-in?       (re-frame/subscribe [:rccst.subs/logged-in?])
-        pub-sub-started? (re-frame/subscribe [:bhui.subs/pub-sub-started?])]
+        pub-sub-started? (re-frame/subscribe [:bh.subs/pub-sub-started?])]
 
     (if (not @logged-in?)
       (re-frame/dispatch [:rccst.events/login "test-user" "test-pwd"]))
@@ -131,6 +131,14 @@
 
   (if (not @logged-in?)
     (re-frame/dispatch [:rccst.events/login "test-user" "test-pwd"]))
+
+  ())
+
+
+
+(comment
+  (def container-id     "coverage-plan-demo-ww")
+
 
   ())
 
