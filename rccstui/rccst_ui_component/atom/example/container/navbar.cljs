@@ -5,7 +5,7 @@
             [re-frame.core :as re-frame]
 
             [events :as events]
-            [ui-component.atom.navbar :as navbar]))
+            [ui-component.atom.bhui.navbar :as navbar]))
 
 
 (def data-path [:navbar-example :tab-panel])
