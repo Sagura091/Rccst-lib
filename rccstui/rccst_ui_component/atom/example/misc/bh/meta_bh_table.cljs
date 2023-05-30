@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.misc.meta-bh-table
+(ns rccst-ui-component.atom.example.misc.bh.meta-bh-table
   (:require [ui-component.atom.table :as table]
             [ui-component.utils :as ui-utils]
             [ui-component.utils.helpers :as h]

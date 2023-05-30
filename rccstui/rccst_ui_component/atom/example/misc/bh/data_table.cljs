@@ -1,4 +1,4 @@
-(ns rccst-ui-component.atom.example.misc.data-table
+(ns rccst-ui-component.atom.example.misc.bh.data-table
   (:require [ui-component.atom.data-table :as table]
             [re-com.core :as rc]
             [reagent.core :as r]
